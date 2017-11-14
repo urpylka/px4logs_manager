@@ -1,0 +1,3 @@
+*.pyc
+!logs/px4logs.json
+logs/*
